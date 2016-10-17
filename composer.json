@@ -48,3 +48,9 @@
         "preferred-install": "dist"
     }
 }
+
+{
+    "require": {
+        "predictionio/predictionio": "~0.9.0"
+    }
+}
